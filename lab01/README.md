@@ -1,9 +1,12 @@
 # ml-01
 
+## Introduction
+The California housing dataset, derived from the 1990 U.S. Census, provides valuable insights into the state's real estate market by incorporating key economic and demographic variables. Collected through surveys and interviews, census data serves as a crucial resource for analyzing housing trends, though it is subject to limitations such as sampling errors and undercounting, particularly in diverse and densely populated areas like California. By examining factors such as median home values, income levels, and household sizes, this dataset enables predictive modeling to assess affordability, regional disparities, and broader socioeconomic influences. However, challenges such as income inequality, housing shortages, and gentrification may be hidden within the data, requiring careful interpretation to uncover the full scope of California’s housing market dynamics. <br>
+
 ## Overview
 Businesses and organizations often need to understand the relationships between different factors to make better decisions.
 For example, a company may want to predict the fuel efficiency of a car based on its weight and engine size or estimate home prices based on square footage and location.
-Regression analysis helps identify and quantify these relationships between numerical features, providing insights that can be used for forecasting and decision-making.
+Regression analysis helps identify and quantify these relationships between numerical features, providing insights that can be used for forecasting and decision-making. <br>
 
 This project demonstrates your ability to apply regression modeling techniques to a real-world dataset. You will:
 - Load and explore a dataset.
@@ -103,3 +106,20 @@ Verify your repository contains:
 - [ ] Useful README.md
 - [ ] Useful requirements.txt
 
+## Authors
+
+Contributors names and contact info
+@github.com/Data-Git-Hub
+
+## Version History
+* 4.0
+    * Finalization of this Phase of the Project
+    * Final Formatting
+* 3.0
+    * Data Analytics
+* 2.0
+    * Data Transformations
+* 1.0
+    * Cleaning Datasets
+* 0.0
+    * Initial Setup
