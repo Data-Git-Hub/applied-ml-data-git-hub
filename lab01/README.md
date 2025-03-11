@@ -108,18 +108,8 @@ Verify your repository contains:
 
 ## Authors
 
-Contributors names and contact info
-@github.com/Data-Git-Hub
+Contributors names and contact info <br>
+@github.com/Data-Git-Hub <br>
 
 ## Version History
-* 4.0
-    * Finalization of this Phase of the Project
-    * Final Formatting
-* 3.0
-    * Data Analytics
-* 2.0
-    * Data Transformations
-* 1.0
-    * Cleaning Datasets
-* 0.0
-    * Initial Setup
+- L1 0 Initial 0.0 - 0.3 Setup of Framework <br>
