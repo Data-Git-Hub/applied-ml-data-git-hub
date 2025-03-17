@@ -106,6 +106,6 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
-- Init 0.0 - 0.2 <br>
+- Init 0.0 - 0.3 <br>
 ## Test History  
 - <br>
