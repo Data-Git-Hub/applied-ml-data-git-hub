@@ -1,7 +1,7 @@
 # D3
 
 ## Introduction
-ADD. <br>
+In this project, we will construct a Binary Confusion Matrix to evaluate the performance of a classification model using the weatherAUS.csv dataset from Kaggle. The dataset contains weather-related variables collected in Australia. For this analysis, we will focus solely on the last two columns of the dataset, which represent the actual and predicted classifications of a binary event—whether or not it rained the next day and limiting our sample size to only 1000 records.. <br>
 
 ## Overview
 Businesses and organizations often need to understand the relationships between different factors to make better decisions.
@@ -14,7 +14,7 @@ This project demonstrates your ability to apply regression modeling techniques t
 - Analyzing model performance using standard evaluation metrics derived from the confusion matrix. <br>
 
 ## Dataset 
-Address.
+Kaggle Link: https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package <br>.
 
 ---
 
@@ -50,18 +50,15 @@ Start your notebook professionally with:
 
 Present your work in clearly numbered second-level and third-level headings
 
-### Section 1. Load and Explore the Data
+### Section 1: Load and Explore the Data (Base Model)
 
+### Section 2: Data Preprocessing (Base Model)
 
-### Section 2. Visualize Feature Distributions
+### Section 3: Constructing the Binary Confusion Matrix (Base Model)
 
+### Section 4: Model Evaluation Metrics
 
-### Section 3. Feature Selection and Justification
-
-
-### Section 4. Train a Linear Regression Model
-
-
+### Section 5: Conclusion and Next Steps (Base Model, Raise the Bar Model, Lower the Bar Model)
 ---
 
 ## README.md (Required)
@@ -90,6 +87,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- D3 Sect - 5.0 <br>
 - D3 Sect - 4.0 <br>
 - D3 Sect - 2.0 <br>
 - D3 Sect - 1.0 <br>
