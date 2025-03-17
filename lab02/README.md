@@ -1,17 +1,19 @@
 # ml-02
 
 ## Introduction
-Add. <br>
+The Titanic dataset provides valuable insights into the factors that influenced survival during the tragic RMS Titanic disaster of 1912. It includes demographic and logistical details such as passenger class, gender, age, family relationships, fare price, and embarkation point, with the target variable indicating survival. Analysis of the data reveals clear survival patterns, where first-class passengers and women and children had higher survival rates, while third-class passengers faced greater challenges. However, missing values in age and embarkation data require careful handling. By applying visualization and predictive modeling, we can better understand the impact of class, gender, and other variables on survival outcomes. <br>
 
 ## Overview
-Add. <br>
+Businesses and organizations often need to understand the relationships between different factors to make better decisions.
+For example, a company may want to predict the fuel efficiency of a car based on its weight and engine size or estimate home prices based on square footage and location.
+Regression analysis helps identify and quantify these relationships between numerical features, providing insights that can be used for forecasting and decision-making. <br>
 
 This project demonstrates your ability to apply regression modeling techniques to a real-world dataset. You will:
 - Load and explore a dataset.
 - Choose and justify features for predicting a target variable.
 - Train a regression model and evaluate performance.
 - Compare multiple regression approaches.
-- Document your work in a structured Jupyter Notebook.
+- Document your work in a structured Jupyter Notebook. <br>
 
 ## Dataset 
 Address.
@@ -95,10 +97,10 @@ If starting with an assignment README, remove the parts you do not need to prese
 
 Verify your repository contains:
 
-- [ ] Useful .gitignore (that keeps .venv out of GitHub)
-- [ ] Professional Jupyter Notebook with numbered sections   
-- [ ] Useful README.md
-- [ ] Useful requirements.txt
+- [x] Useful .gitignore (that keeps .venv out of GitHub)
+- [x] Professional Jupyter Notebook with numbered sections   
+- [x] Useful README.md
+- [x] Useful requirements.txt
 
 ## Authors
 
@@ -106,6 +108,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- Sect 1.0 <br>
 - Init 0.0 - 0.3 <br>
 ## Test History  
 - <br>
