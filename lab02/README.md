@@ -108,6 +108,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- Sect 4.0 <br>
 - Sect 3.0 <br>
 - Sect 2.0 <br>
 - Sect 1.0 <br>
