@@ -9,24 +9,12 @@ For example, a company may want to predict the fuel efficiency of a car based on
 Regression analysis helps identify and quantify these relationships between numerical features, providing insights that can be used for forecasting and decision-making. <br>
 
 This project demonstrates your ability to apply regression modeling techniques to a real-world dataset. You will:
-- Load and explore a dataset.
-- Choose and justify features for predicting a target variable.
-- Train a regression model and evaluate performance.
-- Compare multiple regression approaches.
-- Document your work in a structured Jupyter Notebook. <br>
+- Extracting the relevant data columns from the dataset. <br>
+- Constructing a Binary Confusion Matrix based on the actual and predicted values. <br>
+- Analyzing model performance using standard evaluation metrics derived from the confusion matrix. <br>
 
 ## Dataset 
 Address.
-
-## Python Library for Machine Learning: scikit-learn
-We use scikit-learn, built on NumPy, SciPy, and matplotlib
-   - Read more at <https://scikit-learn.org/>
-   - Scikit-learn supports classification, regression, and clustering.
-   - This project applies regression.
-
-**Important:** Use a 2-step installation to avoid timeouts and partial installs:  
-1. **First Install:** Install from `requirements.txt` with `scikit-learn` commented out.  
-2. **Second Install:** Uncomment `scikit-learn` and rerun the install command.
 
 ---
 
@@ -44,6 +32,15 @@ See the above guides for troubleshooting and solutions.
 Machine learning projects follow a structured approach.
 We will use this approach throughout the course. 
 
+1) Load and Explore the Data (Base Model)
+2) Data Preprocessing (Base Model)
+3) Constructing the Binary Confusion Matrix (Base Model)
+4) Model Evaluation Metrics
+-  Base Model Evaluation
+-  Raise the Bar Model
+-  Lower the Bar Model
+5) Conclusion and Next Steps (Base Model, Raise the Bar Model, Lower the Bar Model
+
 Start your notebook professionally with:
 - a single top-level title
 - your name (or alias)
@@ -54,31 +51,16 @@ Start your notebook professionally with:
 Present your work in clearly numbered second-level and third-level headings
 
 ### Section 1. Load and Explore the Data
-- 1.1 Load the dataset and display the first 10 rows.
-- 1.2 Check for missing values and display summary statistics.
 
-Analysis: What do you notice about the dataset? Are there any data issues?
 
 ### Section 2. Visualize Feature Distributions
-- 2.1 Create histograms, boxplots, and scatterplots.
-- 2.2 Identify patterns or anomalies in feature distributions.
 
-Analysis: What patterns or anomalies do you see? Do any features stand out?
 
 ### Section 3. Feature Selection and Justification
-- 3.1 Choose two input features for predicting the target.
-- 3.2 Justify your selection with reasoning.
 
-Analysis: Why did you choose these features? How might they impact predictions?
 
 ### Section 4. Train a Linear Regression Model
-- 4.1 Define X (features) and y (target).
-- 4.2 Train a Linear Regression model using Scikit-Learn.
-- 4.3 Report R^2, MAE, RMSE.
 
-Analysis: How well did the model perform? Any surprises in the results?
-
-See [EXAMPLE_ANALYSIS](./docs/EXAMPLE_ANALYSIS.md) for more.
 
 ---
 
