@@ -90,6 +90,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- D3 Sect - 4.0 <br>
 - D3 Sect - 2.0 <br>
 - D3 Sect - 1.0 <br>
 - D3 Init - 0.0 <br>
