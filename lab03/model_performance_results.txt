@@ -1,0 +1,20 @@
+| Model Type           | Case   | Features Used            | Accuracy   | Precision   | Recall   | F1-Score   | Notes   |
+|:---------------------|:-------|:-------------------------|:-----------|:------------|:---------|:-----------|:--------|
+| Decision Tree        | Case 1 | alcohol                  | 55.56%     | 47.84%      | 50.95%   | 49.05%     | -       |
+| Decision Tree        | Case 2 | color_intensity          | 63.89%     | 61.20%      | 60.95%   | 60.31%     | -       |
+| Decision Tree        | Case 3 | alcohol, color_intensity | 72.22%     | 71.78%      | 70.00%   | 69.34%     | -       |
+| SVM (RBF Kernel)     | Case 1 | alcohol                  | 66.67%     | 56.05%      | 62.06%   | 57.41%     | -       |
+| SVM (RBF Kernel)     | Case 2 | color_intensity          | 75.00%     | 80.25%      | 72.62%   | 73.26%     | -       |
+| SVM (RBF Kernel)     | Case 3 | alcohol, color_intensity | 83.33%     | 86.97%      | 80.56%   | 80.53%     | -       |
+| SVM (Linear Kernel)  | Case 1 | alcohol                  | 66.67%     | 56.22%      | 62.06%   | 57.49%     | -       |
+| SVM (Linear Kernel)  | Case 2 | color_intensity          | 72.22%     | 77.92%      | 69.84%   | 70.64%     | -       |
+| SVM (Linear Kernel)  | Case 3 | alcohol, color_intensity | 88.89%     | 91.34%      | 87.22%   | 88.11%     | -       |
+| SVM (Poly Kernel)    | Case 1 | alcohol                  | 69.44%     | 62.63%      | 65.40%   | 62.49%     | -       |
+| SVM (Poly Kernel)    | Case 2 | color_intensity          | 72.22%     | 78.36%      | 69.84%   | 70.71%     | -       |
+| SVM (Poly Kernel)    | Case 3 | alcohol, color_intensity | 88.89%     | 91.34%      | 87.22%   | 88.11%     | -       |
+| SVM (Sigmoid Kernel) | Case 1 | alcohol                  | 38.89%     | 79.63%      | 33.33%   | 18.67%     | -       |
+| SVM (Sigmoid Kernel) | Case 2 | color_intensity          | 2.78%      | 1.45%       | 2.38%    | 1.80%      | -       |
+| SVM (Sigmoid Kernel) | Case 3 | alcohol, color_intensity | 38.89%     | 79.63%      | 33.33%   | 18.67%     | -       |
+| Neural Network (MLP) | Case 1 | alcohol                  | 69.44%     | 62.63%      | 65.40%   | 62.49%     | -       |
+| Neural Network (MLP) | Case 2 | color_intensity          | 75.00%     | 80.25%      | 72.62%   | 73.26%     | -       |
+| Neural Network (MLP) | Case 3 | alcohol, color_intensity | 86.11%     | 86.92%      | 84.44%   | 85.02%     | -       |
