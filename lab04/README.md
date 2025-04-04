@@ -1,44 +1,17 @@
 # Lab04
 
 ## Introduction
-The objective of the TODO  <br>
+This project aims to develop a regression model that predicts medical insurance charges based on the demographic and health-related attributes provided in the dataset. The goal is to investigate how features such as age, BMI, and smoking status impact medical costs and to compare the performance of various regression techniques, including linear regression, ridge regression, elastic net, and polynomial regression.  <br>
 
 ## Overview
 Businesses and organizations must understand the relationships between different factors to make better decisions. <br>
 For example, a company may want to predict a car's fuel efficiency based on weight and engine size or estimate home prices based on square footage and location. <br>
 Regression analysis helps identify and quantify these relationships between numerical features, providing insights that can be used for forecasting and decision-making. <br>
 
-This project demonstrates your ability to apply regression modeling techniques to a real-world dataset. You will: <br>
-- We use three common classification models in this lab. <br>
-
-- Decision Tree Classifier (DT)
-
-A Decision Tree splits data into smaller groups based on decision rules (like "is height greater than 150 cm?"). It’s like a flowchart, where each decision point leads to another question until a final classification is reached. <br>
-
-Strengths: Easy to interpret and fast to train. <br>
-Weaknesses: Can overfit if the tree becomes too complex. <br>
-
-- Support Vector Machine (SVM) 
-
-A Support Vector Machine tries to find the "best boundary" (a hyperplane) that separates data into classes. It works well with complex data and small datasets. <br>
-
-Strengths: Effective when there is a clear margin of separation between classes. <br>
-Weaknesses: Computationally expensive for large datasets. <br>
-
-- Neural Network (NN)
-
-A Neural Network is inspired by how human brains process information. It consists of layers of interconnected "neurons" that process input data and adjust based on feedback. <br>
-
-Strengths: Can handle complex patterns and non-linear relationships.<br>
-Weaknesses: More data and tuning are needed to avoid overfitting.<br>
-When trying to classify data, using three (or more) models can help:<br>
-
-Decision Trees illustrate how individual features contribute to classification.<br>
-SVMs are good at finding complex boundaries.<br>
-Neural Networks are good at learning patterns from complex data. <br>
-
 ## Dataset 
-TBD. TODO <br>.
+I am using the Medical Cost Personal Dataset, which contains information about individual medical insurance charges. Each record in the dataset includes a person's age, sex, body mass index (BMI), number of children, smoking status, and residential region, along with the insurance charges they incurred. <br>
+
+[Medical Cost Personal Dataset on Kaggle](https://www.kaggle.com/datasets/mirichoi0218/insurance) <br>
 
 ---
 
@@ -52,11 +25,18 @@ See the above guides for troubleshooting and solutions.
 
 ---
 
-## Project Outline
+### Section 1: Import and Inspect the Data
 
-Present your work in clearly numbered second-level and third-level headings
+### Section 2: Data Exploration and Preparation
 
-### Section 1: TODO
+### Section 3: Feature Selection and Justification
+
+### Section 4: Train a Regression Model (Linear Regression)
+
+### Section 5: Compare Alternative Models
+
+### Section 6: Final Thoughts & Insights
+
 ---
 
 ## README.md (Required)
@@ -74,10 +54,10 @@ If starting with an assignment README, remove the parts you do not need to prese
 
 Verify your repository contains:
 
-- [] Useful .gitignore (that keeps .venv out of GitHub)
-- [] Professional Jupyter Notebook with numbered sections   
-- [] Useful README.md
-- [] Useful requirements.txt
+- [ ] Useful .gitignore (that keeps .venv out of GitHub)
+- [ ] Professional Jupyter Notebook with numbered sections   
+- [ ] Useful README.md
+- [ ] Useful requirements.txt
 
 ## Authors
 
@@ -85,6 +65,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- L4 Init - 0.1 <br>
 - L4 Init - 0.0 <br>
 ## Test History  
 - <br>
