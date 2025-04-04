@@ -65,7 +65,11 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- L4 Sect - 1.0 <br>
+- L4 Init - 0.4 <br>
+- L4 Init - 0.3 <br>
+- L4 Init - 0.2 <br>
 - L4 Init - 0.1 <br>
 - L4 Init - 0.0 <br>
 ## Test History  
-- <br>
+- NA <br>
