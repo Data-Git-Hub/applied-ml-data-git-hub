@@ -65,6 +65,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- L4 Sect - 6.0 <br>
 - L4 Sect - 2.0 <br>
 - L4 Sect - 1.0 <br>
 - L4 Init - 0.4 <br>

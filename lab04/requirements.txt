@@ -214,3 +214,5 @@ scikit-learn
 #pip freeze > rv.txt
 
 tabulate
+
+scipy

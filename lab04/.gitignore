@@ -25,6 +25,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+*.egg-info/
+*.py[cod]
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
@@ -50,6 +52,7 @@ coverage.xml
 .hypothesis/
 .pytest_cache/
 cover/
+*.pyo
 
 # Translations
 *.mo
@@ -169,3 +172,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Data
+*.csv
+*.xlsx
+
+# OS / Misc
+.DS_Store
+Thumbs.db
