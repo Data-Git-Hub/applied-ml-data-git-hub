@@ -123,6 +123,9 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- L5 Init - 0.4 - Add requirements.txt
+- L5 Init - 0.3 - Add .gitignore
+- L5 Init - 0.2 - Modify README.md 
 - L5 Init - 0.1 - Add README.md
 - L5 Init - 0.0 - Add ensemble-data-git-hub.ipynb <br>
 ## Test History  
