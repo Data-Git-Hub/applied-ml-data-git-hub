@@ -183,3 +183,9 @@ cython_debug/
 
 # Scraped comparison data (optional)
 data/peer_results.csv
+
+# web content automation logs
+chromedriver.exe
+selenium.log
+*.html
+*.log
