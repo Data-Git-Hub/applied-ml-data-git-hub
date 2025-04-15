@@ -119,10 +119,10 @@ If starting with an assignment README, remove the parts you do not need to prese
 
 Verify your repository contains:
 
-- [ ] Useful .gitignore (that keeps .venv out of GitHub)
-- [ ] Professional Jupyter Notebook with numbered sections   
-- [ ] Useful README.md
-- [ ] Useful requirements.txt
+- [x] Useful .gitignore (that keeps .venv out of GitHub)
+- [x] Professional Jupyter Notebook with numbered sections   
+- [x] Useful README.md
+- [x] Useful requirements.txt
 
 ## Authors
 
@@ -130,6 +130,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- L5 Sect - 3.0 - Modify ensemble-data-git-hub.ipynb Section 3
 - L5 Sect - 2.0 - Modify ensemble-data-git-hub.ipynb Section 2
 - L5 Sect - 1.0 - Modify ensemble-data-git-hub.ipynb Section 1
 - L5 Init - 0.7 - Modify ensemble-data-git-hub.ipynb, README.md
