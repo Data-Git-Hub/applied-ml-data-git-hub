@@ -123,6 +123,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- L5 Init - 0.6 - Modify ensemble-data-git-hub.ipynb
 - L5 Init - 0.5 - Add data folder, winequality-red.csv, Modify ensemble-data-git-hub.ipynb, README.md
 - L5 Init - 0.4 - Add requirements.txt
 - L5 Init - 0.3 - Add .gitignore
