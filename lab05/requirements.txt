@@ -202,5 +202,10 @@ scikit-learn
 # In a terminal, run the following command to export the specific package versions to a file:
 #pip freeze > rv.txt
 
-# Classifier tool
+# Additional Classifier Tool
 xgboost
+
+# Web Scrapping Tools
+requests
+beautifulsoup4
+lxml

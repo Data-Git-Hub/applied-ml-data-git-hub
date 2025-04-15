@@ -176,4 +176,10 @@ cython_debug/
 # macOS system files
 .DS_Store
 
+# Web scraping debug files
+*.html
+*.tmp
+*.log
 
+# Scraped comparison data (optional)
+data/peer_results.csv
