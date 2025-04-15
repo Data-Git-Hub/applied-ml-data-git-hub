@@ -1,14 +1,21 @@
-# Lab06
+# Lab05
+
+[Predicting Red Wine Quality Using Ensemble Machine Learning Models](https://github.com/Data-Git-Hub/applied-ml-data-git-hub/blob/main/lab05/ensemble-data-git-hub.ipynb)
 
 ## Introduction
-TBD. <br>
+This project explores the application of ensemble machine learning methods to predict the quality of red wine based on its physicochemical characteristics. Ensemble models are designed to combine the strengths of multiple individual models, resulting in improved accuracy, robustness, and generalization. The analysis focuses on evaluating the performance of several ensemble techniques—including Random Forests, AdaBoost, and Voting Classifiers—using classification metrics such as accuracy, precision, recall, and F1 score. By comparing these models, the project aims to identify which methods are most effective in predicting categorical wine quality levels. <br>
 
 ## Overview
 TBD. <br>
 
 ## Dataset 
-TBD. <br>
+The dataset used in this project is the Wine Quality Dataset available from the UCI Machine Learning Repository. It contains physicochemical measurements for red wine samples, including variables such as acidity, sugar content, pH, and alcohol percentage. Each sample is rated with a quality score ranging from 0 to 10, based on sensory evaluations conducted by wine tasters. For the purposes of classification, these scores are grouped into three categories: low, medium, and high quality. <br>
 
+The dataset was originally published by: P. Cortez, A. Cerdeira, F. Almeida, T. Matos, and J. Reis, in the article titled
+Modeling wine preferences by data mining from physicochemical properties,
+published in Decision Support Systems, Elsevier, 47(4), pages 547–553, 2009. <br>
+
+[Wine Quality Dataset made available by the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ---
 
 ## Windows Setup Instructions
@@ -123,6 +130,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- L5 Init - 0.7 - Modify ensemble-data-git-hub.ipynb, README.md
 - L5 Init - 0.6 - Modify ensemble-data-git-hub.ipynb
 - L5 Init - 0.5 - Add data folder, winequality-red.csv, Modify ensemble-data-git-hub.ipynb, README.md
 - L5 Init - 0.4 - Add requirements.txt
