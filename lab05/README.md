@@ -130,6 +130,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- L5 Sect - 6.2 - Modify ensemble-data-git-hub.ipynb Section 6
 - L5 Sect - 6.1 - Modify ensemble-data-git-hub.ipynb Section 6 additional requirements to save to data folder
 - L5 Sect - 6.0 - Modify ensemble-data-git-hub.ipynb Section 6
 - L5 Sect - 5.0 - Modify ensemble-data-git-hub.ipynb Section 5, requirements.txt
