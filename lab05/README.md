@@ -15,7 +15,7 @@ The dataset was originally published by: P. Cortez, A. Cerdeira, F. Almeida, T. 
 Modeling wine preferences by data mining from physicochemical properties,
 published in Decision Support Systems, Elsevier, 47(4), pages 547–553, 2009. <br>
 
-[Wine Quality Dataset made available by the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
+### [Wine Quality Dataset made available by the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality)
 ---
 
 ## Windows Setup Instructions
@@ -139,4 +139,4 @@ Contributors names and contact info <br>
 - L5 Init - 0.1 - Add README.md
 - L5 Init - 0.0 - Add ensemble-data-git-hub.ipynb <br>
 ## Test History  
-<br>
+- L5 Test - 0.1 - Modify README.md <br>
