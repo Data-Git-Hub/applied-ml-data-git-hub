@@ -145,6 +145,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- L5 Finl - 0.1 - Modify ensemble-data-git-hub.ipynb
 - L5 Finl - 0.0 - Modify README.md
 - L5 Sect - 7.2 - Modify ensemble-data-git-hub.ipynb Section 7, Add comparisons folder, final_model_comparison.csv
 - L5 Sect - 7.1 - Modify ensemble-data-git-hub.ipynb Section 7
