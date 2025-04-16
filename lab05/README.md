@@ -5,9 +5,6 @@
 ## Introduction
 This project explores the application of ensemble machine learning methods to predict the quality of red wine based on its physicochemical characteristics. Ensemble models are designed to combine the strengths of multiple individual models, resulting in improved accuracy, robustness, and generalization. The analysis focuses on evaluating the performance of several ensemble techniques—including Random Forests, AdaBoost, and Voting Classifiers—using classification metrics such as accuracy, precision, recall, and F1 score. By comparing these models, the project aims to identify which methods are most effective in predicting categorical wine quality levels. <br>
 
-## Overview
-TBD. <br>
-
 ## Dataset 
 The dataset used in this project is the Wine Quality Dataset available from the UCI Machine Learning Repository. It contains physicochemical measurements for red wine samples, including variables such as acidity, sugar content, pH, and alcohol percentage. Each sample is rated with a quality score ranging from 0 to 10, based on sensory evaluations conducted by wine tasters. For the purposes of classification, these scores are grouped into three categories: low, medium, and high quality. <br>
 
@@ -100,7 +97,25 @@ See the above guides for troubleshooting and solutions.
 
 ---
 
-### Section 1: TBD
+### Introduction
+
+### Imports
+
+### Section 1. Load and Inspect the Data
+
+### Section 2. Prepare the Data
+
+### Section 3. Feature Selection and Justification
+
+### Section 4. Split the Data into Train and Test
+
+### Section 5. Evaluate Model Performance
+
+### Section 6. Compare Results 
+
+### Section 7. Conclusions and Insights
+
+### References:
 
 ---
 
@@ -130,6 +145,7 @@ Contributors names and contact info <br>
 @github.com/Data-Git-Hub <br>
 
 ## Version History
+- L5 Finl - 0.0 - Modify README.md
 - L5 Sect - 7.2 - Modify ensemble-data-git-hub.ipynb Section 7, Add comparisons folder, final_model_comparison.csv
 - L5 Sect - 7.1 - Modify ensemble-data-git-hub.ipynb Section 7
 - L5 Sect - 7.0 - Modify requirements.txt, .gitignore
